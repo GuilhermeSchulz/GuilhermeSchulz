@@ -22,7 +22,7 @@ Utilizo computadores desde os meus 8 anos, então tenho uma grande facilidade de
 
 <div align="left">
     <a href="https://github.com/GuilhermeSchulz">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSchulz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSchulz"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSchulz&theme=dracula&hide_border=false&&layout=compact"/>
     </a>
   </div>
