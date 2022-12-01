@@ -1,4 +1,5 @@
 Bem vindos, sou o Guilherme!
+
 Sou um estudande de full stack, no bootcamp da Kenzie Academy Brasil, atualmente concluí a etapa de front-end e atualmente estou me aventurando pelo back-end.
 Utilizo computadores desde os meus 8 anos, então tenho uma grande facilidade de aprender qualquer coisa relacionada, já trabalhei como designer o que me ajuda muito no desenvolvimento Front-End.
 
