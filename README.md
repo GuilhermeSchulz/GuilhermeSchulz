@@ -18,6 +18,7 @@ Utilizo computadores desde os meus 8 anos, então tenho uma grande facilidade de
                              
           
           
+<h2>Minhas Estatisticas do GitHub: </h2>
 
 [![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSchulz)](https://github.com/GuilhermeSchulz/github-readme-stats)
 
