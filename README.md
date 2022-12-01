@@ -11,6 +11,7 @@ Atualmente estou aprendendo estas tecnologias:
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
           
 Se quiser se conectar comigo pelo Linkedin:
+
 <a href="https://www.linkedin.com/in/guilhermeschulzdaluz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
                              
           
