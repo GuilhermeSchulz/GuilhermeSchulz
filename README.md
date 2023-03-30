@@ -9,7 +9,8 @@ Utilizo computadores desde os meus 8 anos, então tenho uma grande facilidade de
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <h2>Atualmente estou aprendendo estas tecnologias:</h2>
-
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ReactNative
 
           
 
